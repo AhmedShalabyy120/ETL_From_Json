@@ -43,6 +43,6 @@ The output CSV file, `task2.csv`, contains the following columns:
 - **time_in**: Timestamp in the "YYYY-MM-DD HH:MM:SS" format.
 - **time**: Timestamp when the click occurred.
 
-Feel free to explore and analyze the USA.gov click data using this code.
+
 
 
